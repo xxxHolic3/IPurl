@@ -1,6 +1,5 @@
 #! /usr/bin/env python
 from socket import *
-import sys
 
 print (" _____ _____            _ ")
 print ("|_   _|  __ \          | |")
